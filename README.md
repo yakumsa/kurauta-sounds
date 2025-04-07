@@ -14,13 +14,33 @@ A site for Gqom presets at your disposal.
 
 7. **Contributing**:Need Help??Contact us on https://instagram.com/kumsankukwana_.
 
-8. **License**: .
+8. **License**:MIT License
+
+Copyright (c) 2025 yakumsa
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE. .
 
 9. **Authors and Acknowledgments**: Author: Kumsa Nkukhwana
                                   : Third party: IIE Rosebank College
                                   : Company : Kura Uta Preset Hub
 
-11. **Contact Information**: For assistance call, +27764019179, or alternatively, send us a message on whatsapp:+27608498471, or email us at kumsankukwana@gmail.com.
+10. **Contact Information**: For assistance call, +27764019179, or alternatively, send us a message on whatsapp:+27608498471, or email us at kumsankukwana@gmail.com.
 
-12. **FAQs**: 1.Do apps like FL Studio support these wavs and preset plugins?
+11. **FAQs**: 1.Do apps like FL Studio support these wavs and preset plugins?
               2.Can these wavs be eddited in anyway on FL Studio.
