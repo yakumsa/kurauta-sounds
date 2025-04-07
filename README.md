@@ -4,17 +4,25 @@ A site for Gqom presets at your disposal.
 
 2. **Description**: A hub for gqom producers, where presets and plugins are found at a tap of a button.
 
-3. **Table of Contents**: .
+3. **Table of Contents**: 1.Project title
+                          2.Description
+                          3.Installation
+                          4.Usage
+                          5.Features
+                          6.Contributing
+                          7.License
+                          8.Authors and Acknowledgements
+                          9.Contact
 
-4. **Installation**: Simply click buy and downloaded file will appear in your android or windows downloads.
+5. **Installation**: Simply click buy and downloaded file will appear in your android or windows downloads.
 
-5. **Usage**: Use presets on supported apps like Caustic 3, FL Studio and Music studio plus .
+6. **Usage**: Use presets on supported apps like Caustic 3, FL Studio and Music studio plus .
 
-6. **Features**: A home page, About page, Enquiries page, Contact page and Product page for easy navigation around the site.
+7. **Features**: A home page, About page, Enquiries page, Contact page and Product page for easy navigation around the site.
 
-7. **Contributing**:Need Help??Contact us on https://instagram.com/kumsankukwana_.
+8. **Contributing**:Need Help??Contact us on https://instagram.com/kumsankukwana_.
 
-8. **License**:MIT License
+9. **License**:MIT License
 
 Copyright (c) 2025 yakumsa
 
