@@ -6,13 +6,13 @@ A site for Gqom presets at your disposal.
 
 3. **Table of Contents**: .
 
-4. **Installation**: .
+4. **Installation**: Simply click buy and downloaded file will appear in your android or windows downloads.
 
-5. **Usage**: .
+5. **Usage**: Use presets on supported apps like Caustic 3, FL Studio and Music studio plus .
 
 6. **Features**: A home page, About page, Enquiries page, Contact page and Product page for easy navigation around the site.
 
-7. **Contributing**: .
+7. **Contributing**:Need Help??Contact us on https://instagram.com/kumsankukwana_.
 
 8. **License**: .
 
@@ -20,7 +20,7 @@ A site for Gqom presets at your disposal.
                                   : Third party: IIE Rosebank College
                                   : Company : Kura Uta Preset Hub
 
-10. **Contact Information**: For assistance call, +27764019179, or alternatively, send us a message on whatsapp:+27608498471, or email us at kumsankukwana@gmail.com.
+11. **Contact Information**: For assistance call, +27764019179, or alternatively, send us a message on whatsapp:+27608498471, or email us at kumsankukwana@gmail.com.
 
-11. **FAQs**: 1.Do apps like FL Studio support these wavs and preset plugins?
+12. **FAQs**: 1.Do apps like FL Studio support these wavs and preset plugins?
               2.Can these wavs be eddited in anyway on FL Studio.
